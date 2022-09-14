@@ -1,0 +1,11 @@
+.collapse{
+    background-color: red;
+}
+
+/* Navbar */
+.navbar-brand{
+    font-size: 2rem;
+}
+.sidenav-options{
+    font-size: 1.5rem;
+}
