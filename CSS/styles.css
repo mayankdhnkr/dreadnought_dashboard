@@ -9,3 +9,12 @@
 .sidenav-options{
     font-size: 1.5rem;
 }
+.java-image{
+    object-fit: cover;
+}
+.column-section{
+    padding: 2%;
+}
+.navbar-relative{
+    position: relative;
+}
