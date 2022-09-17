@@ -3,8 +3,22 @@
 }
 
 /* Navbar */
+.navbar{
+    background-color: #2834fc;
+}
 .navbar-brand{
+    color: white;
     font-size: 2rem;
+}
+.upper-navbar{
+    color: white;
+}
+.nav-item{
+    padding-left:25px;
+}
+.card-link{
+    text-decoration: none;
+    color: black;
 }
 .sidenav-options{
     font-size: 1.5rem;
