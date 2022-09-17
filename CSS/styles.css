@@ -9,8 +9,9 @@
 .sidenav-options{
     font-size: 1.5rem;
 }
-.java-image{
-    object-fit: cover;
+.course-image{
+    width: 100%;
+    object-fit: fill;
 }
 .column-section{
     padding: 2%;
