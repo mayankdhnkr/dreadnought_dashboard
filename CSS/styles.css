@@ -26,7 +26,7 @@
     font-size: 1.5rem;
     font-weight: 400;
 }
-.nav-item:hover{
+.sidenav-items-bg:hover{
     color: white;
     background-color: #2834fc;
 }
